@@ -1,5 +1,5 @@
-https://install.openhasp.com/
+ instalador openhasp --->https://install.openhasp.com/
 
-https://www.openhasp.com/0.7.0/
+pagina oficial openhasp --->https://www.openhasp.com/0.7.0/
 
-https://web.esphome.io/
+instaldor esphome --->- https://web.esphome.io/
