@@ -1,0 +1,8 @@
+Vá para a loja de complementos
+Instale um dos complementos SSH (você precisa ativar o modo avançado em seu perfil de usuário para vê-los)
+Configure o complemento SSH que você escolheu seguindo a documentação dele
+Inicie o complemento SSH
+Conecte-se ao complemento SSH
+Execute o script de download do HACS
+Após a conclusão do script, reinicie o Home Assistant
+wget -O - https://get.hacs.xyz | bash -
